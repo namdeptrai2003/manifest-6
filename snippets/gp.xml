@@ -7,7 +7,6 @@
            revision="lineage-15.1" />
 
   <remove-project name="android_hardware_qcom_audio"/>
-  <remove-project name="android_hardware_qcom_audio"/>
   
    <!-- TWRP -->
   <project path="bootable/recovery-twrp" name="Galaxy-MSM8916/android_bootable_recovery" remote="github" revision="android-8.1"/>
